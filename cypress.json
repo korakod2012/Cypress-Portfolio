@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://automationteststore.com/",
+  "chromeWebSecurity": false,
+  "env": {
+    "web_homepage": "https://automationteststore.com/",
+    "webdriveruni_homepage": "http://www.webdriveruniversity.com",
+    "first_name": "sarah"
+  },
+  "projectId": "7sp83t"
+}
